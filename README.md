@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @Nelson-DevStack
-- 👀 Programming 
+##@Nelson-DevStack
+
+- 🖖🏼 Just another product of Today ;  
+- 🖥️ Programmer 
 - 🔖 Javascript & Node
 - 💡 Learning ReactJS
 <!---
