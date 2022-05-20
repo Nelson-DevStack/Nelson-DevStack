@@ -1,8 +1,9 @@
 ## @Nelson-DevStack
 
-- 🔥 Just another product of Today ;  
 - 🖥️ Web Developer
+- 🔥 Just another product of Today
 - 🔖 Javascript, Node, React.js & Next.js
+- 💻 MERN Stack
 - 💡 Learning Tailwindcss
 <!---
 Nelson-DevStack/Nelson-DevStack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
