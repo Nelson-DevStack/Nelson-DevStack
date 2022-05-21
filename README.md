@@ -1,11 +1,13 @@
 ## @Nelson-DevStack
 
-- 🖥️ Web Developer
-- 🔥 Just another product of Today
-- 🔖 Javascript, Node, React.js & Next.js
-- 💻 MERN Stack
-- 💡 Learning Tailwindcss
-<!---
-Nelson-DevStack/Nelson-DevStack is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Sobre
+Com dois anos de experiência, busco desenvolver e programar websites e sistemas Web utilizando tecnologias modernas de Front-End e Back-End.
+
+## Web Developer
+- 🔖 JavaScript & TypeScript
+- 💡 React.js & Next.js
+- 💻 Node.js, MongoDB e MySQL.
+
+## Languages
+- 🇧🇷 Brazilian Portuguese
+- 🇺🇸 American English
