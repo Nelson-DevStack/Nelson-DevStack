@@ -1,7 +1,7 @@
 ## @Nelson-DevStack
 
 ## Sobre
-Com dois anos de experiência, busco desenvolver e programar websites e sistemas Web utilizando tecnologias modernas de Front-End e Back-End.
+Com pouco mais dois anos de experiência, busco desenvolver e programar websites e sistemas Web utilizando tecnologias modernas de Front-End e Back-End.
 
 ## Web Developer
 - 🔖 JavaScript & TypeScript
