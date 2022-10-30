@@ -1,5 +1,3 @@
-## @Nelson-DevStack
-
 # Oi, sou o Nelson 👋
 Programador, Desenvolvedor Web e Web Designer
 
