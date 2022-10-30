@@ -23,6 +23,7 @@ Programador, Desenvolvedor Web e Web Designer
   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Ferramentas e Desenvolvimento**
+
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Bitbucket](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
