@@ -9,12 +9,10 @@ My main goal is to create scalable solutions that make life easier through autom
 - ✅ &nbsp; R & Tidyverse;
 - ✅ &nbsp; JavaScript & TypeScript;
 - ✅ &nbsp; Web Development
-  
-<br />
 
 ### 🚀&nbsp; My Skills
 
-**Web Development & Statisticsb**
+**Web Development & Statistics**
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
