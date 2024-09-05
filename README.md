@@ -9,7 +9,7 @@ My main goal is to create scalable solutions that make life easier through autom
 - ✅ &nbsp; R & Tidyverse;
 - ✅ &nbsp; JavaScript & TypeScript;
 - ✅ &nbsp; Web Development
-- 
+  
 <br />
 
 ### 🚀&nbsp; My Skills
